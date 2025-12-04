@@ -19,7 +19,7 @@ cd port_congestion_proj_ml
 
 # create venv, activate and install requirements
 python -m venv venv
-source /venv/bin/activate
+source ./venv/bin/activate
 pip install -r requirements.txt
 
 # install jupyter kernel for .ipynb
