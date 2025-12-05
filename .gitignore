@@ -34,3 +34,6 @@ logs/
 # Temp
 *.tmp
 temp/
+
+# ML models (large, regeneratable)
+*.joblib
