@@ -10,7 +10,9 @@ executing==2.2.1
 fastparquet==2024.11.0
 fonttools==4.61.0
 fsspec==2025.12.0
+geographiclib==2.1
 geopandas==1.1.1
+geopy==2.4.1
 ipykernel==7.1.0
 ipython==9.8.0
 ipython_pygments_lexers==1.1.1
